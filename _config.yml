@@ -82,9 +82,9 @@ analytics:
 author:
 #   name             : "Koritskiy Nikita"
   avatar           : "profile.jpg"
-  bio              : "Quantum Computer engeneer from Russia"
+  bio              : "Quantum computing researcher from Russia"
   location         : "Moscow, Russia"
-  employer         : "Russian Quantum Center"
+#   employer         : "Russian Quantum Center"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "koritcky@gmail.com"

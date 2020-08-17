@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-My name is Nikita Koritskiy. I'm studying quantum information science in Moscow insitute of Techology while doing research in Russian Quantum Center.
+I'm pursuing a master's degree in Data Science at Skoltech and researching at the Russian Quantum Center. My main focus is on developing machine learning methods to solve problems in quantum physics.

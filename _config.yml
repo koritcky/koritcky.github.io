@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Koritskiy Nikita"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Koritskiy Nikita"
+description              : &description "MSc student in Data Science & Quantum physics researcher"
 url                      : https://koritcky.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "koritcky/koritcky.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
 #   name             : "Koritskiy Nikita"
   avatar           : "profile.jpg"
-  bio              : "Quantum computing researcher from Russia"
+  bio              : "QMSc student in Data Science & Quantum physics researcher"
   location         : "Moscow, Russia"
 #   employer         : "Russian Quantum Center"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "koritskiy"
   foursquare       :
   github           : "koritcky"
   google_plus      :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  telegram         : 
 
 
 # Reading Files
